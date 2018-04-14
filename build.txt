@@ -1,0 +1,3 @@
+author = WithBaconPlz
+version = 0.1
+displayName = WithBaconPlz-Mod
